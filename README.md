@@ -1,0 +1,1 @@
+This repository contains lecture slides from my Bachelor of Engineering in Electrical Engineering journey at Xi'an Jiaotong Liverpool University (2022-2026). My goal is to document my academic progress and provide a valuable open reference for future students.
